@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Quake Report</string>
+    <string name="app">55435</string>
+    <string name="app1">5.7</string>
+    <string name="app2">San Francisco</string>
+    <string name="app3">15, January 2017</string>
+    <string name="test">inn</string>
+
+    <string name="near_the">Near the</string>
+
+
+</resources>
